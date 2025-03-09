@@ -1,5 +1,4 @@
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@aterigun/30-nites-of-code)  
   ![@aterigun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aterigun)
 
 <!--
