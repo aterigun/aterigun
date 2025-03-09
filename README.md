@@ -1,4 +1,6 @@
-## Hi there 👋
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@aterigun/30-nites-of-code)  
+  ![@aterigun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aterigun)
 
 <!--
 **aterigun/aterigun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
