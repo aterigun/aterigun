@@ -1,4 +1,4 @@
-## #30NitesOfCode:
+## hipo:
   ![@aterigun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aterigun)
 
 <!--
