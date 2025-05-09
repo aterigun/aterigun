@@ -1,4 +1,5 @@
 Hi! I am a Physics student and I do dumb stuff.
+Currently diving into molecular physics and quantum chemistry. Working for CERN in my free time.
 Maybe someday I will publish my privates.
 
 But for now enjoy The Hippolytus Junior the hippo:
