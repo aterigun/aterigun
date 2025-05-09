@@ -1,4 +1,9 @@
-## hipo:
+Hi! I am a Physics student and I do dumb stuff.
+Maybe someday I will publish my privates.
+
+But for now enjoy The Hippolytus Junior the hippo:
+
+## Hippolytus Junior:
   ![@aterigun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aterigun)
 
 <!--
