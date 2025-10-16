@@ -1,8 +1,4 @@
-Hi! I am a Physics student and I do dumb stuff.
-Currently diving into molecular physics and quantum chemistry. Working for CERN in my free time.
-Maybe someday I will publish my privates.
-
-But for now enjoy The Angus Von Wigglebottom:
+The Angus Von Wigglebottom:
 
 ## Angus Von Wigglebottom:
   ![@aterigun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aterigun)
