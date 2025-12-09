@@ -1,6 +1,4 @@
-The Angus Von Wigglebottom:
 
-## Angus Von Wigglebottom:
   ![@aterigun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aterigun)
 
 <!--
